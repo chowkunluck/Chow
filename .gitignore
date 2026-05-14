@@ -1,0 +1,10 @@
+# AI Ignore Patterns
+node_modules/
+.venv/
+venv/
+__pycache__/
+dist/
+build/
+.git/
+*.log
+.DS_Store
